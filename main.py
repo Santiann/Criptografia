@@ -36,3 +36,4 @@ print("Decrypted word:", decrypted_word)
 
 print(ord(word[0]))
 print(ord(decrypted_word[0]))
+
